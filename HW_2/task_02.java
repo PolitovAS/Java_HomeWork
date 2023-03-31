@@ -24,9 +24,9 @@
 
 package HW_2;
 import java.util.*;
-public class task_02 {
+public class task_02 {    
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);        
 
         System.out.printf("Количество строк в книге: ");
         int n = scanner.nextInt();
